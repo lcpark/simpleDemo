@@ -1,4 +1,4 @@
 # simpleDemo
-POC for hosting Java applets to demo a project
+Proof of Concept for hosting Java applets to demo a project
 
-simpleDemo.html
+[Goto Java Applet](simpleDemo.html)
